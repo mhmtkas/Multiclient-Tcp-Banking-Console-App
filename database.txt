@@ -1,0 +1,6 @@
+mehmetkas Mehmet Kas 123456 A 1122331 230
+ayseozcetin Ayse Ozcetin 123456 A 1122332 20000
+sudeatik Sude Atik 123456 B 2233441 100
+alicanuz Alican Uz 123456 B 2233442 1100
+emirhanerturan Emirhan Erturan 123456 C 3344551 400
+berkayusta Berkay Usta 123456 C 3344552 250
